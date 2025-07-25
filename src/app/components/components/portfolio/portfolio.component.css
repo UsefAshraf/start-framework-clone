@@ -1,0 +1,14 @@
+
+.plus-bg{
+  background-color: #1abc9ce6;
+    opacity: 0;
+    cursor: pointer;
+    transition: .6s opacity;
+}
+.parent-hover:hover .plus-bg{
+  opacity: 1;
+}
+.pad{
+  padding-top: 120px;
+  margin: 30px;
+}

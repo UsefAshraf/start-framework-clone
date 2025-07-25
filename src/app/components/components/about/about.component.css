@@ -1,0 +1,12 @@
+.about{
+  background-color: #1abc9c;
+}
+.line{
+width: 80px; height: 4px; background-color: white;}
+.font-solid{
+  font-weight: 900;
+  font-family: "Font Awesome 6 Free";
+}
+.pad{
+  padding-top: 120px;
+}
